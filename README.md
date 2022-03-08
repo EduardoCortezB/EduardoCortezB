@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Cortez</h1>
 <h3 align="center">A developer backend, I'm student of TI and I love the automatization and technologies.</h3>
 
-- 🌱 I’m currently learning **C#**
-
 - 📫 How to reach me **eduardocortezzeus@gmail.com**
 
 
