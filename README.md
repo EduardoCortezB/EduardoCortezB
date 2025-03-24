@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Cortez</h1>
-<h3 align="center">I am backend developer, currently I am student of IT on the career of Software Developer.</h3>
-<h3 align="center">This is my website www.EduardoCortez.info.</h3>
+<h3 align="center">I am especialized in backend development with more that 5 years of experience in development of web applications, IIoT systems, SCADA systems, data analytics and system automatizations.</h3>
+<h3 align="center">This is my www.eduardocortez.info</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
